@@ -43,9 +43,12 @@
     <Compile Include="BoldText.cs" />
     <Compile Include="Document.cs" />
     <Compile Include="DocumentPart.cs" />
-    <Compile Include="DocumentFormatter.cs" />
+    <Compile Include="HtmlConverter.cs" />
     <Compile Include="Hyperlink.cs" />
+    <Compile Include="IDocumentConverter.cs" />
+    <Compile Include="LaTeXConverter.cs" />
     <Compile Include="PlainText.cs" />
+    <Compile Include="PlainTextConverter.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

@@ -29,3 +29,15 @@ C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.La
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.Solution.pdb
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.pdb
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.dll.config
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.Console.exe.config
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.Console.exe
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.Console.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.Solution.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.Solution.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\bin\Debug\Task5.dll.config
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\obj\Debug\Task5.Console.csprojResolveAssemblyReference.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\obj\Debug\Task5.Console.csproj.CoreCompileInputs.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\obj\Debug\Task5.Console.exe
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task5.Console\obj\Debug\Task5.Console.pdb

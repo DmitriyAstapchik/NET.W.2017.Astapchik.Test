@@ -4,7 +4,7 @@ using Task5.Solution;
 
 namespace Task5.Solution
 {
-    public class Document : IFormattable
+    public class Document
     {
         private List<DocumentPart> parts;
 
@@ -17,16 +17,14 @@ namespace Task5.Solution
             this.parts = new List<DocumentPart>(parts);
         }
 
-        public string ToString(string format, IFormatProvider formatProvider)
+        public string Convert(IDocumentConverter converter)
         {
-            string output = string.Empty;
-
-            foreach (DocumentPart part in this.parts)
+            string result = string.Empty;
+            foreach (var part in parts)
             {
-                output += $"{part.ToString(format, formatProvider)}\n";
+                result += part.Convert(converter) + Environment.NewLine;
             }
-
-            return output;
+            return result;
         }
     }
 }

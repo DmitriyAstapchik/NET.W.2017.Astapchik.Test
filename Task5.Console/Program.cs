@@ -17,13 +17,12 @@
                 };
 
             Document document = new Document(parts);
-            var provider = new DocumentFormatter();
 
-            Console.WriteLine(document.ToString("html", provider));
+            Console.WriteLine(document.Convert(new HtmlConverter()));
 
-            Console.WriteLine(document.ToString("plain", provider));
+            Console.WriteLine(document.Convert(new PlainTextConverter()));
 
-            Console.WriteLine(document.ToString("latex", provider));
+            Console.WriteLine(document.Convert(new LaTeXConverter()));
 
             Console.Read();
         }
