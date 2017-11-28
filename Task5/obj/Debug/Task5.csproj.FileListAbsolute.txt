@@ -1,0 +1,21 @@
+C:\Users\MIB\Desktop\20.11.2017\Task5\bin\Debug\Task5.dll.config
+C:\Users\MIB\Desktop\20.11.2017\Task5\bin\Debug\Task5.dll
+C:\Users\MIB\Desktop\20.11.2017\Task5\bin\Debug\Task5.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\20.11.2017\Task5\obj\Debug\Task5.dll
+C:\Users\MIB\Desktop\20.11.2017\Task5\obj\Debug\Task5.pdb
+C:\Users\MIB\Desktop\20.11.2017\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task5\bin\Debug\Task5.dll.config
+C:\Users\MIB\Desktop\23.11.2017\Task5\bin\Debug\Task5.dll
+C:\Users\MIB\Desktop\23.11.2017\Task5\bin\Debug\Task5.pdb
+C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.dll
+C:\Users\MIB\Desktop\23.11.2017\Task5\obj\Debug\Task5.pdb
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\bin\Debug\Task5.dll.config
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\bin\Debug\Task5.dll
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\bin\Debug\Task5.pdb
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\obj\Debug\Task5.csprojResolveAssemblyReference.cache
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\obj\Debug\Task5.csproj.CoreCompileInputs.cache
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\obj\Debug\Task5.dll
+C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task5\obj\Debug\Task5.pdb
