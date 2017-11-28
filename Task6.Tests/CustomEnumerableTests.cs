@@ -17,7 +17,7 @@ namespace Task6.Tests
         {
             int[] expected = { 1, 1, 2, 3, 5, 8, 13, 21, 34, 55 };
 
-            CollectionAssert.AreEqual(expected, SequenceGenerator<int>.Generate(1, 1, 10, (x1, x2) => x2 + x1));
+            CollectionAssert.AreEqual(expected, SequenceGenerator.GenerateSequence(1, 1, 10, (x1, x2) => x2 + x1));
         }
 
         [Test]
@@ -25,7 +25,7 @@ namespace Task6.Tests
         {
             int[] expected = { 1, 2, 4, 8, 16, 32, 64, 128, 256, 512 };
 
-            CollectionAssert.AreEqual(expected, SequenceGenerator<int>.Generate(1, 2, 10, (x1, x2) => 6 * x2 - 8 * x1));
+            CollectionAssert.AreEqual(expected, SequenceGenerator.GenerateSequence(1, 2, 10, (x1, x2) => 6 * x2 - 8 * x1));
         }
 
         [Test]
@@ -33,11 +33,11 @@ namespace Task6.Tests
         {
             double[] expected = { 1, 2, 2.5, 3.3, 4.05757575757576, 4.87086926018965, 5.70389834408211, 6.55785277425587, 7.42763417076325, 8.31053343902137 };
 
-            double[] seq = SequenceGenerator<double>.Generate(1, 2, 10, (x1, x2) => x2 + x1 / x2).ToArray();
+            var seq = SequenceGenerator.GenerateSequence<double>(1, 2, 10, (x1, x2) => x2 + x1 / x2);
 
             for (int i = 0; i < 10; i++)
             {
-                Assert.AreEqual(expected[0], seq[0], 0.00000000000001);
+                Assert.AreEqual(expected[i], seq.ElementAt(i), 0.00000000000001);
             }
         }
     }
