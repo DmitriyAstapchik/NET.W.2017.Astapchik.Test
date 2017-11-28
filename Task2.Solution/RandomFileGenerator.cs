@@ -26,7 +26,7 @@ namespace Task2.Solution
             }
         }
 
-        public void WriteBytesToFile(string fileName, byte[] content)
+        private void WriteBytesToFile(string fileName, byte[] content)
         {
             if (!Directory.Exists(WorkingDirectory))
             {
