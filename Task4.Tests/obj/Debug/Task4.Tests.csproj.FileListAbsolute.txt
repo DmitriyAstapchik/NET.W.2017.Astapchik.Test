@@ -30,3 +30,15 @@ C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.La
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.Solution.dll
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.Solution.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.Tests.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.Tests.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\nunit.framework.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.Solution.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.Solution.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\Task4.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\bin\Debug\nunit.framework.xml
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\obj\Debug\Task4.Tests.csprojResolveAssemblyReference.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\obj\Debug\Task4.Tests.csproj.CoreCompileInputs.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\obj\Debug\Task4.Tests.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4.Tests\obj\Debug\Task4.Tests.pdb

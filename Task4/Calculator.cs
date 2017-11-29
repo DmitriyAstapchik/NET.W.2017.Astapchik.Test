@@ -10,7 +10,7 @@ namespace Task4
         {
             if (values == null)
             {
-                throw  new ArgumentNullException(nameof(values));
+                throw new ArgumentNullException(nameof(values));
             }
 
             switch (averagingMethod)
@@ -28,7 +28,7 @@ namespace Task4
                         return sortedValues[(n - 1) / 2];
                     }
 
-                    return (sortedValues[sortedValues.Count / 2 - 1] + sortedValues[n / 2]) / 2;
+                    return (sortedValues[(sortedValues.Count / 2) - 1] + sortedValues[n / 2]) / 2;
 
                 default:
                     throw new ArgumentException("Invalid averagingMethod value");

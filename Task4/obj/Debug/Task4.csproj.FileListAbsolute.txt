@@ -9,3 +9,9 @@ C:\Users\MIB\Desktop\23.11.2017\Task4\obj\Debug\Task4.csprojResolveAssemblyRefer
 C:\Users\MIB\Desktop\23.11.2017\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
 C:\Users\MIB\Desktop\23.11.2017\Task4\obj\Debug\Task4.dll
 C:\Users\MIB\Desktop\23.11.2017\Task4\obj\Debug\Task4.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4\bin\Debug\Task4.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4\bin\Debug\Task4.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4\obj\Debug\Task4.csprojResolveAssemblyReference.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4\obj\Debug\Task4.csproj.CoreCompileInputs.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4\obj\Debug\Task4.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task4\obj\Debug\Task4.pdb

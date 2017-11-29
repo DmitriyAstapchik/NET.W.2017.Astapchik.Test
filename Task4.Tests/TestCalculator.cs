@@ -1,10 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
+using System.Linq;
 using NUnit.Framework;
 using Task4;
 using Task4.Solution.Version_1;
 using Task4.Solution.Version_2;
-using System.Linq;
 
 namespace Task4.Tests
 {
@@ -12,7 +12,7 @@ namespace Task4.Tests
     public class TestCalculator
     {
         private readonly List<double> values = new List<double> { 10, 5, 7, 15, 13, 12, 8, 7, 4, 2, 9 };
-        ICalculator calculator;
+        private ICalculator calculator;
 
         [Test]
         public void Test_AverageByMean()
@@ -52,7 +52,7 @@ namespace Task4.Tests
                     return sortedValues[(n - 1) / 2];
                 }
 
-                return (sortedValues[sortedValues.Count / 2 - 1] + sortedValues[n / 2]) / 2;
+                return (sortedValues[(sortedValues.Count / 2) - 1] + sortedValues[n / 2]) / 2;
             };
 
             Assert.AreEqual(expected, AverageCalculator.CalculateAverage(values, method), 0.000001);

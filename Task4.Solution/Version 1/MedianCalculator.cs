@@ -19,7 +19,7 @@ namespace Task4.Solution.Version_1
                 return sortedValues[(n - 1) / 2];
             }
 
-            return (sortedValues[sortedValues.Count / 2 - 1] + sortedValues[n / 2]) / 2;
+            return (sortedValues[(sortedValues.Count / 2) - 1] + sortedValues[n / 2]) / 2;
         }
     }
 }
