@@ -1,19 +1,18 @@
 ﻿namespace Task5.Console
 {
-    using System.Collections.Generic;
     using System;
-   // using Task5;
+    using System.Collections.Generic;
     using Task5.Solution;
 
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             List<DocumentPart> parts = new List<DocumentPart>
                 {
-                    new PlainText {Text = "Some plain text"},
-                    new Hyperlink {Text = "google.com", Url = "https://www.google.by/"},
-                    new BoldText {Text = "Some bold text"}
+                    new PlainText { Text = "Some plain text" },
+                    new Hyperlink { Text = "google.com", Url = "https://www.google.by/" },
+                    new BoldText { Text = "Some bold text" }
                 };
 
             Document document = new Document(parts);

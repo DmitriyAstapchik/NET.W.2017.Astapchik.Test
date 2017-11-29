@@ -9,7 +9,9 @@ namespace Task5.Solution
     public interface IDocumentConverter
     {
         string Convert(BoldText bold);
+
         string Convert(PlainText plain);
+
         string Convert(Hyperlink link);
     }
 }

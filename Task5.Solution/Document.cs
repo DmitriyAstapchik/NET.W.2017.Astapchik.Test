@@ -14,6 +14,7 @@ namespace Task5.Solution
             {
                 throw new ArgumentNullException(nameof(parts));
             }
+
             this.parts = new List<DocumentPart>(parts);
         }
 
@@ -24,6 +25,7 @@ namespace Task5.Solution
             {
                 result += part.Convert(converter) + Environment.NewLine;
             }
+
             return result;
         }
     }
