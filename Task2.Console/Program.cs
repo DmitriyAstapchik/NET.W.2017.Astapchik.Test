@@ -8,9 +8,9 @@ using Task2.Solution;
 
 namespace Task2.Console
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var charsGen = new RandomCharsFileGenerator();
             charsGen.GenerateFiles(2, 20);
@@ -21,7 +21,7 @@ namespace Task2.Console
             var txtFiles = Directory.GetFiles(charsGen.WorkingDirectory, "*.txt");
             foreach (var file in txtFiles)
             {
-                System.Console.WriteLine("txt file length: "+ new FileInfo(file).Length);
+                System.Console.WriteLine("txt file length: " + new FileInfo(file).Length);
             }
 
             var bytesFiles = Directory.GetFiles(bytesGen.WorkingDirectory, "*.bytes");

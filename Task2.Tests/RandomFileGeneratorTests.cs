@@ -1,19 +1,19 @@
-﻿using NUnit.Framework;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
-using Task2.Solution;
 using Moq;
+using NUnit.Framework;
+using Task2.Solution;
 
 namespace Task2.Tests
 {
     [TestFixture]
     public class RandomFileGeneratorTests
     {
-        static RandomFileGenerator gen = Mock.Of<RandomFileGenerator>(gen => gen.WorkingDirectory == "test directory");
-        Mock<RandomFileGenerator> genMock = Mock.Get(gen);
+        private static RandomFileGenerator gen = Mock.Of<RandomFileGenerator>(gen => gen.WorkingDirectory == "test directory");
+        private Mock<RandomFileGenerator> genMock = Mock.Get(gen);
 
         [Test]
         public void GenerateFilesTest()

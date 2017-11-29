@@ -10,9 +10,8 @@ namespace Task2.Solution
     public abstract class RandomFileGenerator
     {
         public abstract string WorkingDirectory { get; }
-        public abstract string FileExtension { get; }
 
-        protected abstract byte[] GenerateFileContent(int contentLength);
+        public abstract string FileExtension { get; }
 
         public void GenerateFiles(int filesCount, int contentLength)
         {
@@ -25,6 +24,8 @@ namespace Task2.Solution
                 this.WriteBytesToFile(generatedFileName, generatedFileContent);
             }
         }
+
+        protected abstract byte[] GenerateFileContent(int contentLength);
 
         private void WriteBytesToFile(string fileName, byte[] content)
         {

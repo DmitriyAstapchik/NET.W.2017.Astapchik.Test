@@ -20,16 +20,15 @@ namespace Task2.Solution
             return bytes;
         }
 
-        private string RandomString(int Size)
+        private string RandomString(int size)
         {
             var random = new Random();
 
-            const string input = "abcdefghijklmnopqrstuvwxyz0123456789";
+            const string Input = "abcdefghijklmnopqrstuvwxyz0123456789";
 
-            var chars = Enumerable.Range(0, Size).Select(x => input[random.Next(0, input.Length)]);
+            var chars = Enumerable.Range(0, size).Select(x => Input[random.Next(0, Input.Length)]);
 
             return new string(chars.ToArray());
         }
-
     }
 }
