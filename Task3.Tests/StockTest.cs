@@ -1,10 +1,10 @@
-﻿using NUnit.Framework;
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Moq;
+using NUnit.Framework;
 using Task3.Solution;
 
 namespace Task3.Tests
@@ -15,7 +15,6 @@ namespace Task3.Tests
         [Test]
         public void MarketTest()
         {
-            
         }
     }
 }

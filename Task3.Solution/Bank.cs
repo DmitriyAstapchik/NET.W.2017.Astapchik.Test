@@ -10,8 +10,6 @@ namespace Task3.Solution
     {
         private Stock stock;
 
-        public string Name { get; set; }
-
         public Bank(string name, Stock stock)
         {
             this.Name = name;
@@ -19,14 +17,20 @@ namespace Task3.Solution
             stock.NewMarket += Stock_NewMarket;
         }
 
-        private void Stock_NewMarket(object sender, MarketEventArgs e)
-        {
-            StockInfo sInfo = e.Info;
+        public string Name { get; set; }
 
-            if (sInfo.Euro > 40)
-                Console.WriteLine("Банк {0} продает евро;  Курс евро: {1}", this.Name, sInfo.Euro);
+        private void Stock_NewMarket(object sender, NewMarketEventArgs e)
+        {
+            StockInfo info = e.Info;
+
+            if (info.Euro > 40)
+            {
+                Console.WriteLine("Банк {0} продает евро;  Курс евро: {1}", this.Name, info.Euro);
+            }
             else
-                Console.WriteLine("Банк {0} покупает евро;  Курс евро: {1}", this.Name, sInfo.Euro);
+            {
+                Console.WriteLine("Банк {0} покупает евро;  Курс евро: {1}", this.Name, info.Euro);
+            }
         }
     }
 }

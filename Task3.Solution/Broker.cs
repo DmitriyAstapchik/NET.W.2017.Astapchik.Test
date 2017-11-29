@@ -10,8 +10,6 @@ namespace Task3.Solution
     {
         private Stock stock;
 
-        public string Name { get; set; }
-
         public Broker(string name, Stock stock)
         {
             this.Name = name;
@@ -19,19 +17,25 @@ namespace Task3.Solution
             stock.NewMarket += Stock_NewMarket;
         }
 
-        private void Stock_NewMarket(object sender, MarketEventArgs e)
-        {
-            StockInfo sInfo = e.Info;
-
-            if (sInfo.USD > 30)
-                Console.WriteLine("Брокер {0} продает доллары;  Курс доллара: {1}", this.Name, sInfo.USD);
-            else
-                Console.WriteLine("Брокер {0} покупает доллары;  Курс доллара: {1}", this.Name, sInfo.USD);
-        }
+        public string Name { get; set; }
 
         public void StopTrade()
         {
             stock.NewMarket -= Stock_NewMarket;
+        }
+
+        private void Stock_NewMarket(object sender, NewMarketEventArgs e)
+        {
+            StockInfo info = e.Info;
+
+            if (info.USD > 30)
+            {
+                Console.WriteLine("Брокер {0} продает доллары;  Курс доллара: {1}", this.Name, info.USD);
+            }
+            else
+            {
+                Console.WriteLine("Брокер {0} покупает доллары;  Курс доллара: {1}", this.Name, info.USD);
+            }
         }
     }
 }

@@ -9,9 +9,7 @@ namespace Task3
     public class Bank : IObserver
     {
         private IObservable stock;
-
-        public string Name { get; set; }
-
+      
         public Bank(string name, IObservable observable)
         {
             this.Name = name;
@@ -19,14 +17,20 @@ namespace Task3
             stock.Register(this);
         }
 
+        public string Name { get; set; }
+
         public void Update(object info)
         {
-            StockInfo sInfo = (StockInfo)info;
+            StockInfo stinfo = (StockInfo)info;
 
-            if (sInfo.Euro > 40)
-                Console.WriteLine("Банк {0} продает евро;  Курс евро: {1}", this.Name, sInfo.Euro);
+            if (stinfo.Euro > 40)
+            {
+                Console.WriteLine("Банк {0} продает евро;  Курс евро: {1}", this.Name, stinfo.Euro);
+            }
             else
-                Console.WriteLine("Банк {0} покупает евро;  Курс евро: {1}", this.Name, sInfo.Euro);
+            {
+                Console.WriteLine("Банк {0} покупает евро;  Курс евро: {1}", this.Name, stinfo.Euro);
+            }
         }
     }
 }

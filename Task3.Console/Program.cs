@@ -7,9 +7,9 @@ using Task3.Solution;
 
 namespace Task3.Console
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var stock = new Stock();
             var bank = new Bank("bank 1", stock);
