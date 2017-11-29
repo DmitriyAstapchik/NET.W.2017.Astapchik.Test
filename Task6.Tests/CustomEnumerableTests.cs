@@ -6,6 +6,7 @@ using System.Text;
 using System.Threading.Tasks;
 using NUnit.Framework;
 using Test6.Solution;
+using Moq;
 
 namespace Task6.Tests
 {
@@ -39,6 +40,16 @@ namespace Task6.Tests
             {
                 Assert.AreEqual(expected[i], seq.ElementAt(i), 0.00000000000001);
             }
+        }
+
+        [Test]
+        public void GenerateSequenceExceptionsTest()
+        {
+            Assert.Throws<ArgumentNullException>(() => SequenceGenerator.GenerateSequence(null, "asd", 22, Mock.Of<Func<string,string,string>>()));
+            Assert.Throws<ArgumentNullException>(() => SequenceGenerator.GenerateSequence("f32f", null, 22, Mock.Of<Func<string, string, string>>()));
+            Assert.Throws<ArgumentNullException>(() => SequenceGenerator.GenerateSequence("f32f", "fawffw", 22, null));
+            Assert.Throws<ArgumentOutOfRangeException>(() => SequenceGenerator.GenerateSequence("f32f", "fawffw", 1, Mock.Of<Func<string, string, string>>()));
+            Assert.DoesNotThrow(() => SequenceGenerator.GenerateSequence("f32f", "fawffw", 2, Mock.Of<Func<string, string, string>>()));
         }
     }
 }

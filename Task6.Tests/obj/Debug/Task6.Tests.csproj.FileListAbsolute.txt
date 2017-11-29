@@ -28,3 +28,8 @@ E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.T
 E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\obj\Debug\Task6.Tests.csproj.CoreCompileInputs.cache
 E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\obj\Debug\Task6.Tests.dll
 E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\obj\Debug\Task6.Tests.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\bin\Debug\Castle.Core.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\bin\Debug\Moq.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\bin\Debug\Castle.Core.xml
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\bin\Debug\Moq.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task6.Tests\bin\Debug\Moq.xml
