@@ -2,6 +2,8 @@
 {
     public class SqlRepository
     {
-        public void Create(string password) { }
+        public void Create(string password)
+        {
+        }
     }
 }

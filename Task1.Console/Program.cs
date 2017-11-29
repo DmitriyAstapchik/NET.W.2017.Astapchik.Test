@@ -7,9 +7,9 @@ using Task1.Solution;
 
 namespace Task1.Console
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             var verifier = new PasswordVerifier(
                 PasswordVerifier.ValidateEmpty,
@@ -31,12 +31,16 @@ namespace Task1.Console
             System.Console.Read();
         }
 
-        static Tuple<bool, string> ValidateCapital(string password)
+        private static Tuple<bool, string> ValidateCapital(string password)
         {
             if (!password.Any(c => char.IsUpper(c)))
+            {
                 return Tuple.Create(false, $"{password} has no capitals");
+            }
             else
+            {
                 return Tuple.Create(true, (string)null);
+            }
         }
     }
 }
