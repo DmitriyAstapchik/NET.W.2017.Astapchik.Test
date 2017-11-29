@@ -1,15 +1,15 @@
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Task2.Tests.dll
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Task2.Tests.pdb
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Castle.Core.dll
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Moq.dll
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\nunit.framework.dll
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Task2.Solution.dll
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Task2.Solution.pdb
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Castle.Core.xml
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Moq.pdb
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\Moq.xml
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\bin\Debug\nunit.framework.xml
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\obj\Debug\Task2.Tests.csprojResolveAssemblyReference.cache
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\obj\Debug\Task2.Tests.csproj.CoreCompileInputs.cache
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\obj\Debug\Task2.Tests.dll
-C:\Users\MIB\Desktop\20.11.2017\Task2.Tests\obj\Debug\Task2.Tests.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Task2.Tests.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Task2.Tests.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Moq.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\nunit.framework.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Task2.Solution.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Task2.Solution.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Moq.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Moq.xml
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\nunit.framework.xml
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\obj\Debug\Task2.Tests.csprojResolveAssemblyReference.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\obj\Debug\Task2.Tests.csproj.CoreCompileInputs.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\obj\Debug\Task2.Tests.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\obj\Debug\Task2.Tests.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Castle.Core.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task2.Tests\bin\Debug\Castle.Core.xml
