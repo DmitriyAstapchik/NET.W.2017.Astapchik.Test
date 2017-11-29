@@ -13,3 +13,12 @@ C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.La
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.exe
 C:\Users\vera\Downloads\Final Test-20171128T053911Z-001\Final Test\NET.W.2017.LastName.Test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\bin\Debug\Task3.Console.exe.config
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\bin\Debug\Task3.Console.exe
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\bin\Debug\Task3.Console.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\bin\Debug\Task3.Solution.dll
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\bin\Debug\Task3.Solution.pdb
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.csprojResolveAssemblyReference.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.csproj.CoreCompileInputs.cache
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.exe
+E:\studying\programming\EPAM training\Homework\Final test\NET.W.2017.Astapchik.Test\Task3.Console\obj\Debug\Task3.Console.pdb
