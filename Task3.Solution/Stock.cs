@@ -15,7 +15,7 @@ namespace Task3.Solution
             stocksInfo = new StockInfo();
         }
 
-        public event EventHandler<NewMarketEventArgs> NewMarket;
+        public virtual event EventHandler<NewMarketEventArgs> NewMarket;
 
         public void Market()
         {

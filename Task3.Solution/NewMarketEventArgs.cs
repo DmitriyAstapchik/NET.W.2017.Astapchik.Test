@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Task3.Solution
 {
-    public class NewMarketEventArgs
+    public class NewMarketEventArgs : EventArgs
     {
         private StockInfo info;
 
@@ -15,6 +15,6 @@ namespace Task3.Solution
             this.info = info;
         }
 
-        public StockInfo Info => info;
+        public virtual StockInfo Info => info;
     }
 }
